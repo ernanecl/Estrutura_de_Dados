@@ -1,0 +1,5 @@
+C:\Users\ERNANECRUZDELIMA\Documents\FATEC\3� semestre\IED001 - Estrutura de Dados\Aula 04 - Lista de Exerc�cios\exe13\main.c: In function 'main':
+C:\Users\ERNANECRUZDELIMA\Documents\FATEC\3� semestre\IED001 - Estrutura de Dados\Aula 04 - Lista de Exerc�cios\exe13\main.c:11:5: error: 'maior' undeclared (first use in this function)
+     maior = num;
+     ^~~~~
+C:\Users\ERNANECRUZDELIMA\Documents\FATEC\3� semestre\IED001 - Estrutura de Dados\Aula 04 - Lista de Exerc�cios\exe13\main.c:11:5: note: each undeclared identifier is reported only once for each function it appears in

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551808708 source:c:\users\ernanecruzdelima\documents\fatec\3º semestre\ied001 - estrutura de dados\aula 04 - lista de exercícios\exe14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+
