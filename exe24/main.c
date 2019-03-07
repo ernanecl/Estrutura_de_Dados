@@ -19,7 +19,7 @@ int main()
         if (a[d]==b)
         {
             c=&a[d];
-            printf("\nEndereco do caractere %p\n", c);
+            printf("\nEndereco do caractere digitado: %p\n", c);
             break;
         }
     }
