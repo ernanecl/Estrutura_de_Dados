@@ -1,0 +1,31 @@
+{
+  "name": "tcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Backend/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./Backend/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernanecl/tcc-fatec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ernanecl/tcc-fatec/issues"
+  },
+  "homepage": "https://github.com/ernanecl/tcc-fatec#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
